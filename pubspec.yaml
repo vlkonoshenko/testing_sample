@@ -18,6 +18,8 @@ dependencies:
       path: plugins/window_size
 
 dev_dependencies:
+  integration_test:
+    sdk: flutter
   flutter_test:
     sdk: flutter
 
