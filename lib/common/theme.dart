@@ -9,7 +9,6 @@ final appTheme = ThemeData(
   useMaterial3: true,
   textTheme: const TextTheme(
     displayLarge: TextStyle(
-      fontFamily: 'Corben',
       fontWeight: FontWeight.w700,
       fontSize: 24,
       color: Colors.black,
